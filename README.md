@@ -1,1 +1,2 @@
-# NJU_digital_image_processing_lab_2021
+# ![](images/yaipt.png) Yet Another Image Processing Tool
+
